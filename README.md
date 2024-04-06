@@ -1,2 +1,2 @@
-An Example for Spring Boot With Redis-Cache using Docker-Compose -- Ready to run Application.
+ Spring Boot With Redis-Cache using Docker-Compose -- Ready to run Application.
 
